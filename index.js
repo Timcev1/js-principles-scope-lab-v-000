@@ -10,9 +10,9 @@ function setBestCustomer() {
 }
 
 function overwriteBestCustomer(newfavorite) {
-  leastFavoriteCustomer = `newfavorite`
+  leastFavoriteCustomer = `newfavorite`;
 }
 
 function leastFavoriteCustomer(){
-  
+
 }
