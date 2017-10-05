@@ -13,6 +13,6 @@ function overwriteBestCustomer(newfavorite) {
   leastFavoriteCustomer = `newfavorite`;
 }
 
-function leastFavoriteCustomer(){
-
+function changeLeastFavoriteCustomer(){
+  leastFavoriteCustomer = `sour fred`;
 }
